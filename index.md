@@ -141,7 +141,7 @@ time since injury? Our decision tree uses these two pieces of information to der
 <div style="clear: both;"></div>
 <br>
 
-<img src="figs/mrspect.png" alt="MRSpectroscopy brain metabolites" width="500" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+<img src="figs/mrspect.png" alt="MRSpectroscopy brain metabolites" width="450" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 **Initially exploring biomarkers of physiological recovery from concussion:** Glutathione, Glutamate, Choline, and Myo-Inositol - all potential markers of physiological recovery from concussion - are relatively stable when compared 
 between two post-concussion timepoints, the first of which was ~18 days post-injury and the second was following patient return to sport participation. These neurometabolites may be acute markers of concussion, but their utility 
 in return-to-play decision making remains limitted at this point. 
@@ -149,7 +149,7 @@ in return-to-play decision making remains limitted at this point.
 <div style="clear: both;"></div>
 <br>
 
-<img src="figs/wtmean_ensem_preds.jpg" alt="Weighted mean of model predictions - ensemble" width="280" style="float: left; margin-right: 20px; margin-bottom: 20px;">
+<img src="figs/wtmean_ensem_preds.jpg" alt="Weighted mean of model predictions - ensemble" width="200" style="float: left; margin-right: 20px; margin-bottom: 20px;">
 **Using >7,000 proteins to predict curve severity in children with Scoliosis:** A weighted mean ensemble approach, combining predictions from 10 independently developed neural networks, can *somewhat* predict an important 
 feature of scoliosis in children. 
 [Project Repo](https://github.com/wingersonMJ/Proteomics_Neural_Network_Ensemble)
