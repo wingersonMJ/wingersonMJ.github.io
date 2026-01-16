@@ -4,7 +4,7 @@
 
 **Name:** Mathew Wingerson (he/him)  
 **Location:** Denver, CO (relocating to... tbd)  
-**Job:** Data Science, Health Analytics, and Machine Learning Researcher (PhD Student)  
+**Job:** Data Science, Health Analytics, and Machine Learning Researcher (PhD Candidate, expected graudation: May 2026)  
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)  
 **Email:** Mat.Wingerson@gmail.com | Mathew.Wingerson@CUAnschutz.edu  
 <br>
