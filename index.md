@@ -1,6 +1,6 @@
 ## Hi, I'm Mathew! 
 
-<img src="profile.jpg" alt="Mathew Wingerson" width="500" style="border-radius: 50%; display: block; margin: 20px 0;">
+<img src="figs/profile.jpg" alt="Mathew Wingerson" width="500" style="border-radius: 50%; display: block; margin: 20px 0;">
 
 **Name:** Mathew Wingerson (he/him)  
 **Location:** Denver, CO (relocating to... tbd)  
