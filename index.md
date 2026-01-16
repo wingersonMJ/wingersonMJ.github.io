@@ -77,7 +77,11 @@ and analyze using longitudinal and joint-modeling methods.
 
 **Like-Me Clinical Aggregation:** A framework for aggregating recovery outcomes among past patients based on similarity matching of clinical characteristics.  
 Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery. 
-[Project Repo](https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation) 
+[Project Repo](https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation)  
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Click to view full image</summary>
+  <img src="figs/example_patient_report.png" alt="Example Patient Report for this Project Approach" style="max-width: 100%; margin-top: 10px;">
+</details>
 <br>
 
 **NeurIPS 2025 Submission:** Leveraging ordinal embeddings for predicting and generalizing health outcomes: A study of adolescent substance use.  
@@ -108,7 +112,7 @@ engaging in one or neither of these pro-recovery behaviors. This means a shorter
 <div style="clear: both;"></div>
 <br>
 
-<img src="figs/exercise_test_perf.png" alt="Performance on exercise testing" width="350" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+<img src="figs/exercise_test_perf.png" alt="Performance on exercise testing" width="300" style="float: left; margin-right: 20px; margin-bottom: 20px;">
 **Exercise test performance and prescribing post-concussion exercise as medicine:** If exercise is medicine for concussion, how do we effectively prescribe exercise for patients in a clinical setting? One approach is 
 to use systematic exercise testing to gradually increase patient heart-rate (over 10-15 minutes of exercise) until symptoms worsen, then prescribe exercise as a heart-rate that is just slightly below the intensity 
 that caused the symptom increase. Here, we describe the progression of heart-rate, visual analog scale symptom reporting (0 = no symptoms, 10 =the worst symptoms), and rating of percieved exertion (6 = rest, 20 = maximum effort). 
@@ -116,7 +120,7 @@ that caused the symptom increase. Here, we describe the progression of heart-rat
 <div style="clear: both;"></div>
 <br>
 
-<img src="figs/HRt_vs_HRMax.png" alt="Exercise test HRt vs 50% of HRmax" width="350" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+<img src="figs/HRt_vs_HRMax.png" alt="Exercise test HRt vs 50% of HRmax" width="400" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 **Evaluating alternatives to exercise testing:** If exercise testing is the gold-standard for determining an appropriate post-concussion exercise intensity (based on heart-rate), then what do we do when exercise testing is 
 not an option, such as when the equipment is not available or when patients are too symptomatic? One alternative is to calculate the patients age-predicted maximum heart-rate (HRm: 220bpm minus their age [in years]; 203bpm for a 17-year-old), 
 then prescribe 50% of that number as a starting place for the patient. The patient can then increase by ~5% of HRm (from 50% to 55%) each day they tolerate exercise at that intensity and do not experience a symptom increase. But is this HRm-based alternative method anywhere close to the actual heart-rate patients can achieve on exercise testing? In other words, is it accurate compared to the gold-standard? We found that it is NOT! Starting exercise at 50% of your HRm is a significantly lower intensity than would be prescribed through standardized exercise testing. In fact, **it would take on average 6-days of incrementally increasing your exercise intensity through the alternate HRm method to finally 
@@ -125,14 +129,14 @@ reach the exercise intensity that you would've began with had you just completed
 <div style="clear: both;"></div>
 <br>
 
-<img src="figs/official_tree.jpg" alt="Decision tree" width="350" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+<img src="figs/official_tree.jpg" alt="Decision tree" width="350" style="float: left; margin-right: 20px; margin-bottom: 20px;">
 **Predicting PSaC after concussion:** Can we predict Persisting Symptoms after Concussion (PSaC), defined as symptoms lasting >28 days, using just two post-concussion factors - self-reported symptom severity and 
 time since injury? Our decision tree uses these two pieces of information to derrive a relative risk of PSaC for patients presenting to specialty sports medicine care after sustaining a concussion. 
 [Project Repo](https://github.com/wingersonMJ/Decision_tree_prediction)
 <div style="clear: both;"></div>
 <br>
 
-<img src="figs/mrspect.png" alt="MRSpectroscopy brain metabolites" width="350" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+<img src="figs/mrspect.png" alt="MRSpectroscopy brain metabolites" width="400" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 **Initially exploring biomarkers of physiological recovery from concussion:** Glutathione, Glutamate, Choline, and Myo-Inositol - all potential markers of physiological recovery from concussion - are relatively stable when compared 
 between two post-concussion timepoints, the first of which was ~18 days post-injury and the second was following patient return to sport participation. These neurometabolites may be acute markers of concussion, but their utility 
 in return-to-play decision making remains limitted at this point. 
@@ -140,7 +144,7 @@ in return-to-play decision making remains limitted at this point.
 <div style="clear: both;"></div>
 <br>
 
-<img src="figs/wtmean_ensem_preds.jpg" alt="Weighted mean of model predictions - ensemble" width="350" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+<img src="figs/wtmean_ensem_preds.jpg" alt="Weighted mean of model predictions - ensemble" width="300" style="float: left; margin-right: 20px; margin-bottom: 20px;">
 **Using >7,000 proteins to predict curve severity in children with Scoliosis:** A weighted mean ensemble approach, combining predictions from 10 independently developed neural networks, can *somewhat* predict an important 
 feature of scoliosis in children. 
 [Project Repo](https://github.com/wingersonMJ/Proteomics_Neural_Network_Ensemble)
