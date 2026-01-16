@@ -71,33 +71,50 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 **Dissertation:** Longitudinal and joint-modeling analyses of repeated measures data for patients with concussion.  
 Summary: Data processing and analysis workflows for longitudinal exploration of wearable device activity data in a 
 clinical research setting, implementing functions to handle repeated measures, define patient-specific monitoring periods, 
-and analyze using longitudinal and joint-modeling methods.  
+and analyze using longitudinal and joint-modeling methods. 
 [Project Repo](https://github.com/wingersonMJ/Dissertation_wingersonMJ)
 <br>
 
 **Like-Me Clinical Aggregation:** A framework for aggregating recovery outcomes among past patients based on similarity matching of clinical characteristics.  
-Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery.  
+Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery. 
 [Project Repo](https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation) 
 <br>
 
 **NeurIPS 2025 Submission:** Leveraging ordinal embeddings for predicting and generalizing health outcomes: A study of adolescent substance use.  
-Summary: Deep representation learning for large-scale adolescent health data; introduced ordinal embeddings that outperform and better generalize to hold-out data than one-hot encoded baselines on substance-use risk prediction.  
+Summary: Deep representation learning for large-scale adolescent health data; introduced ordinal embeddings that outperform and better generalize to hold-out data than one-hot encoded baselines on substance-use risk prediction. 
 [Project Repo](https://github.com/wingersonMJ/2025_NeurIPS_Submission/)
 <br>
 
 **Decision Tree:** A clinically intuitive approach to predicting persisting symptoms after concussion in adolescents.  
-Summary: Interpretable decision-tree classifier for clinical use; tuning of hyperparameters, including depth, minimum samples per split, re-weighting for class imbalances, and cost-complexity pruning with selection of alpha value; stratified K-fold validation for model performance; bootstrapping with replacement for confidence intervals; variations of decision-tree visual representations for immediate use in clinical settings.  
+Summary: Interpretable decision-tree classifier for clinical use; tuning of hyperparameters, including depth, minimum samples per split, re-weighting for class imbalances, and cost-complexity pruning with selection of alpha value; stratified K-fold validation for model performance; bootstrapping with replacement for confidence intervals; variations of decision-tree visual representations for immediate use in clinical settings. 
 [Project Repo](https://github.com/wingersonMJ/Decision_tree_prediction) 
 <br>
 
 **PropensityBatchRandomization:** A tool for randomizing participant biological samples across plates/batches while numerically evaluating the balance of key participant covariates post-randomization.  
-Summary: Python package, published on PyPI, open source with tutorial; providing a structured tool for randomizing participant biological samples across plates/batches and numerically evaluating and balancing key participant covariates post-randomization; primary objective to mitigate batch effects encountered in analysis of biologics.  
+Summary: Python package, published on PyPI, open source with tutorial; providing a structured tool for randomizing participant biological samples across plates/batches and numerically evaluating and balancing key participant covariates post-randomization; primary objective to mitigate batch effects encountered in analysis of biologics. 
 [Project Repo](https://github.com/wingersonMJ/PropensityBatchRandomization) 
 <br> 
 
 **Ensemble Learning of Proteomics Prediction Models:** This project is the start of model building for a study that uses proteomics to predict curve severity in patients with scoliosis.  
-Summary: The objective is to take information gained about cellular functions, disease states, and biological pathways obtained from analyses of 7,500 proteins to estimate a patient's Max Cobb angle - the largest point of spinal curvature measured in degrees on an X-ray. I trained multiple neural networks to predict the target variable, then used ensemble learning by training a stacked linear regression on the network outputs.
+Summary: The objective is to take information gained about cellular functions, disease states, and biological pathways obtained from analyses of 7,500 proteins to estimate a patient's Max Cobb angle - the largest point of spinal curvature measured in degrees on an X-ray. I trained multiple neural networks to predict the target variable, then used ensemble learning by training a stacked linear regression on the network outputs. 
 [Project Repo](https://github.com/wingersonMJ/Proteomics_Neural_Network_Ensemble)  
+
+## Quick examples of contributions to science, clinical practice, and concussion rehabilitation:
+
+**Combined effects of sleep and exercise:** Adolescents with acute concussion (sustained within 21-days of assessment) benefit from engagement in both post-injury exercise and quality sleep (i.e., +Ex/+Sleep group, blue) compared to 
+engaging in one or neither of these pro-recovery behaviors. This means a shorter symptom duration and a quicker time to return-to-play. 
+
+**Exercise test performance and prescribing post-concussion exercise as medicine:** If exercise is medicine for concussion, how do we effectively prescribe exercise for patients in a clinical setting? One approach is 
+to use systematic exercise testing to gradually increase patient heart-rate (over 10-15 minutes of exercise) until symptoms worsen, then prescribe exercise as a heart-rate that is just slightly below the intensity 
+that caused the symptom increase. Here, we describe the progression of heart-rate, visual analog scale symptom reporting (0 = no symptoms, 10 =the worst symptoms), and rating of percieved exertion (6 = rest, 20 = maximum effort). 
+
+**Evaluating alternatives to exercise testing:** If exercise testing is the gold-standard for determining an appropriate post-concussion exercise intensity (based on heart-rate), then what do we do when exercise testing is 
+not an option, such as when the equipment is not available or when patients are too symptomatic? One alternative is to calculate the patients age-predicted maximum heart-rate (HRm: 220bpm minus their age [in years]; 203bpm for a 17-year-old), 
+then prescribe 50% of that number as a starting place for the patient. The patient can then increase by ~5% of HRm (from 50% to 55%) each day they tolerate exercise at that intensity and do not experience a symptom increase. But is this HRm-based alternative method anywhere close to the actual heart-rate patients can achieve on exercise testing? In other words, is it accurate compared to the gold-standard? We found that it is NOT! Starting exercise at 50% of your HRm is a significantly lower intensity than would be prescribed through standardized exercise testing. In fact, **it would take on average 6-days of incrementally increasing your exercise intensity through the alternate HRm method to finally 
+reach the exercise intensity that you would've began with had you just completed an exercise test.** That means ~1-week of sub-optimal exercise post-concussion, with downstream effects on recovery and potential delays in return-to-play. 
+
+
+
 
 # Fun things about me! 
 
