@@ -79,8 +79,13 @@ and analyze using longitudinal and joint-modeling methods.
 Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery. 
 [Project Repo](https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation)  
 <details>
-  <summary style="cursor: pointer; font-weight: bold;">Click to view full image</summary>
-  <img src="figs/example_patient_report.png" alt="Example Patient Report for this Project Approach" style="max-width: 100%; margin-top: 10px;">
+  <summary style="cursor: pointer; font-weight: bold;">
+    <div style="display: inline-block; vertical-align: middle; max-height: 100px; overflow: hidden; border: 1px solid #ddd; margin-right: 10px;">
+      <img src="figs/example_patient_report.png" width="150" style="vertical-align: middle; margin-right: 10px; border: 1px solid #ddd;">
+    </div>
+    Click to view full image
+  </summary>
+  <img src="figs/example_patient_report.png" style="max-width: 100%; margin-top: 10px; border: 1px solid #ddd;">
 </details>
 <br>
 
