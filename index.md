@@ -163,11 +163,7 @@ feature of scoliosis in children.
 ## Record collecting (well... more like hoarding)
 
 ### New/Unexpected finds I've enjoyed: 
-|                                      |                                          |                                        |
-| -------------------------------------| -----------------------------------------| ---------------------------------------|
-| <img src="figs/srv.jpg" width="250"> | <img src="figs/led_zep.jpg" width="250"> | <img src="figs/doors.jpg" width="250"> |
+<img src="figs/srv.jpg" width="200"> <img src="figs/led_zep.jpg" width="200"> <img src="figs/doors.jpg" width="200">
 
 ### Albums I play constantly:
-|                                     |                                              |                                          |
-| ------------------------------------| ---------------------------------------------| -----------------------------------------|
-| <img src="figs/ff.jpg" width="250"> | <img src="figs/cheap_trick.jpg" width="250"> | <img src="figs/nirvana.jpg" width="250"> |
+<img src="figs/ff.jpg" width="200"> <img src="figs/cheap_trick.jpg" width="200"> <img src="figs/nirvana.jpg" width="200">
