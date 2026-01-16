@@ -1,4 +1,3 @@
-# WingersonMJ
 ## Hi, I'm Mathew! 
 
 **Name:** Mathew Wingerson (he/him)  
@@ -73,46 +72,39 @@ I am ahead of schedule in my progress toward a dissertation defense in 2026. I a
 Summary: Data processing and analysis workflows for longitudinal exploration of wearable device activity data in a 
 clinical research setting, implementing functions to handle repeated measures, define patient-specific monitoring periods, 
 and analyze using longitudinal and joint-modeling methods.  
-Project Repo: https://github.com/wingersonMJ/Dissertation_wingersonMJ
+[Project Repo](https://github.com/wingersonMJ/Dissertation_wingersonMJ)
 <br>
 
 **Like-Me Clinical Aggregation:** A framework for aggregating recovery outcomes among past patients based on similarity matching of clinical characteristics.  
 Summary: This patients-like-me aggregation approach generates sub-cohorts that better reflect individual clinical presentations and recovery trajectories, offering an interpretable, data-driven complement to clinical management and supporting patient-centered discussions of expected recovery.  
-Project Repo: https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation 
+[Project Repo](https://github.com/wingersonMJ/Like-Me_Clinical_Aggregation) 
 <br>
 
 **NeurIPS 2025 Submission:** Leveraging ordinal embeddings for predicting and generalizing health outcomes: A study of adolescent substance use.  
 Summary: Deep representation learning for large-scale adolescent health data; introduced ordinal embeddings that outperform and better generalize to hold-out data than one-hot encoded baselines on substance-use risk prediction.  
-Project Repo: https://github.com/wingersonMJ/2025_NeurIPS_Submission/
+[Project Repo](https://github.com/wingersonMJ/2025_NeurIPS_Submission/)
 <br>
 
 **Decision Tree:** A clinically intuitive approach to predicting persisting symptoms after concussion in adolescents.  
 Summary: Interpretable decision-tree classifier for clinical use; tuning of hyperparameters, including depth, minimum samples per split, re-weighting for class imbalances, and cost-complexity pruning with selection of alpha value; stratified K-fold validation for model performance; bootstrapping with replacement for confidence intervals; variations of decision-tree visual representations for immediate use in clinical settings.  
-Project Repo: https://github.com/wingersonMJ/Decision_tree_prediction 
+[Project Repo](https://github.com/wingersonMJ/Decision_tree_prediction) 
 <br>
 
 **PropensityBatchRandomization:** A tool for randomizing participant biological samples across plates/batches while numerically evaluating the balance of key participant covariates post-randomization.  
 Summary: Python package, published on PyPI, open source with tutorial; providing a structured tool for randomizing participant biological samples across plates/batches and numerically evaluating and balancing key participant covariates post-randomization; primary objective to mitigate batch effects encountered in analysis of biologics.  
-Project Repo: https://github.com/wingersonMJ/PropensityBatchRandomization 
+[Project Repo](https://github.com/wingersonMJ/PropensityBatchRandomization) 
 <br> 
 
 **Ensemble Learning of Proteomics Prediction Models:** This project is the start of model building for a study that uses proteomics to predict curve severity in patients with scoliosis.  
 Summary: The objective is to take information gained about cellular functions, disease states, and biological pathways obtained from analyses of 7,500 proteins to estimate a patient's Max Cobb angle - the largest point of spinal curvature measured in degrees on an X-ray. I trained multiple neural networks to predict the target variable, then used ensemble learning by training a stacked linear regression on the network outputs.
-Project Repo: https://github.com/wingersonMJ/Proteomics_Neural_Network_Ensemble  
+[Project Repo](https://github.com/wingersonMJ/Proteomics_Neural_Network_Ensemble)  
 
 # Fun things about me! 
 
-## :musical_note: Top Artists I've listened to over the last 12 months... 
+## Record collecting (well... more like hoarding)
 
-| <img src="https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15" width="300" height="300"> | <img src="https://i.scdn.co/image/ab676161000051746114a63659d0d5c0a801f733" width="300" height="300"> |
-|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-| **#1. Nirvana** | **#2. Foo Fighters** | **#3. Alice in Chains** |
+### New/Unexpected finds I've enjoyed: 
 
-| <img src="https://i.scdn.co/image/ab6761610000517470cc06de8fc28226d4743cd9" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676" width="300" height="300"> | <img src="https://i.scdn.co/image/ab6761610000517431f6ab67e6025de876475814" width="300" height="300"> |
-|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-| **#4. The White Stripes** | **#5. Taylor Swift** | **#6. Jimi Hendrix** |
+### Records I want but can't find: 
 
-| <img src="https://i.scdn.co/image/ab676161000051743cd35451daa1b690cfbbb2d4" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174207b21f3ed0ee96adce3166a" width="300" height="300"> | <img src="https://i.scdn.co/image/ab67616100005174580938fc4c9edb1b80b10898" width="300" height="300"> |
-|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-| **#7. Weezer** | **#8. The Killers** | **#9. The Offspring** |
-
+### Albums I play constantly:
