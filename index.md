@@ -101,9 +101,11 @@ Summary: The objective is to take information gained about cellular functions, d
 
 ## Quick examples of contributions to science, clinical practice, and concussion rehabilitation:
 
+<img src="figs/pa_sleep_km.png" alt="Sleep and PA Kaplan-Meier Curve" width="300" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 **Combined effects of sleep and exercise:** Adolescents with acute concussion (sustained within 21-days of assessment) benefit from engagement in both post-injury exercise and quality sleep (i.e., +Ex/+Sleep group, blue) compared to 
 engaging in one or neither of these pro-recovery behaviors. This means a shorter symptom duration and a quicker time to return-to-play. 
-[Project Repo](https://github.com/wingersonMJ/Salfi_fourGroups)
+[Project Repo](https://github.com/wingersonMJ/Salfi_fourGroups)  
+<div style="clear: both;"></div>
 <br>
 
 **Exercise test performance and prescribing post-concussion exercise as medicine:** If exercise is medicine for concussion, how do we effectively prescribe exercise for patients in a clinical setting? One approach is 
