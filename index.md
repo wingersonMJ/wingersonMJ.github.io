@@ -1,15 +1,15 @@
 ## Hi, I'm Mathew! 
 
+<img src="profile.jpg" alt="Mathew Wingerson" width="200" style="border-radius: 50%; display: block; margin: 20px 0;">
+
 **Name:** Mathew Wingerson (he/him)  
 **Location:** Denver, CO (relocating to... tbd)  
 **Job:** Data Science, Health Analytics, and Machine Learning Researcher (PhD Student)  
 **Company:** University of Colorado School of Medicine | [Colorado Concussion Research Laboratory](https://medschool.cuanschutz.edu/orthopedics/research/labs/howell-concussion-lab)  
 **Email:** Mat.Wingerson@gmail.com | Mathew.Wingerson@CUAnschutz.edu  
 <br>
-[GitHub (@WingersonMJ)](https://github.com/wingersonMJ) || [linkedin](https://www.linkedin.com/in/mat-wingerson/) || [MyBibliography](https://www.ncbi.nlm.nih.gov/myncbi/mathew.wingerson.1/bibliography/public/) || [Posters/Presentations](https://figshare.com/authors/Mathew_Wingerson/15373876)  
+[GitHub Homepage (@WingersonMJ)](https://github.com/wingersonMJ) || [LinkedIn](https://www.linkedin.com/in/mat-wingerson/) || [My CV](https://github.com/wingersonMJ/Curriculum-Vitae/tree/main)  
 <br>
-
-**Link to my full CV:** [CV Link](https://github.com/wingersonMJ/Curriculum-Vitae/tree/main)  
 
 --- 
 ## Professional Summary
