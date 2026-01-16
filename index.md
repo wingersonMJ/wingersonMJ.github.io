@@ -110,6 +110,12 @@ Summary: The objective is to take information gained about cellular functions, d
 
 ## Quick examples of contributions to science, clinical practice, and concussion rehabilitation:
 
+**First-author publication cited in the Sport Concussion Assessment Tool (SCAT-6):** Our [paper](https://pubmed.ncbi.nlm.nih.gov/33150416/) on clinical feasibility of balance assessments for concussion management was discussed and cited in the most recent (2023) 
+edition of the Sport Concussion Assessment Tool (SCAT-6). The SCAT-6 is the world-leading, evidence-based standard for sport-related concussion recognition, clinical assessment, and management, developed by the international Concussion in Sport Group (CISG) and 
+updated approximately every 4 years as part of the International Consensus Conference on Concussion in Sport. I attended the conference (Amsterdam, The Netherlands, Nov. 2022), presented three posters, and was one of seven papers cited in the SCAT-6 
+guidelines. [Link to SCAT-6 guidelines](https://bjsm.bmj.com/content/bjsports/57/11/619/DC1/embed/inline-supplementary-material-1.pdf?download=false)
+<br>
+
 <img src="figs/pa_sleep_km.png" alt="Sleep and PA Kaplan-Meier Curve" width="380" style="float: right; margin-left: 20px; margin-bottom: 20px;">
 **Combined effects of sleep and exercise:** Adolescents with acute concussion (sustained within 21-days of assessment) benefit from engagement in both post-injury exercise and quality sleep (i.e., +Ex/+Sleep group, blue) compared to 
 engaging in one or neither of these pro-recovery behaviors. This means a shorter symptom duration and a quicker time to return-to-play. 
